@@ -11,7 +11,7 @@ int main() {
     //Suma
     cout << "Suma: ";
     printf("%.2f\n", x + y);
-    //R�nica
+    //Ró¿nica
     cout << "Roznica: ";
     printf("%.2f\n", x - y);
     //Iloczyn
